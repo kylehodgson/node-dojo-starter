@@ -2,8 +2,8 @@
 
 After the git clone finishes, next: 
 
-`npm install`
+`npm install` to install dependencies,
 
 then 
 
-`npm test`
+`npm test` to run the test suite.
